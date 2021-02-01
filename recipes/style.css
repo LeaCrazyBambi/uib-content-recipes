@@ -1,7 +1,23 @@
+body {
+    background-image: url(../img/spicy-fire.jpg);
+    background-repeat: repeat;
+}
+
 .style-recipe {
     text-align: center;
     text-align: justify;
+    color: white;
     margin: auto;
     width: 800px;
-   
+    align-content: center;
+}
+
+.wrapper {
+    background-color: rgba(251, 251, 251, 0.281);
+    width: 900px;
+    align-content: center;
+    
+
+.kimchi-image {
+    text-align: center;
 }
