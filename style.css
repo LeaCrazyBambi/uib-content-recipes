@@ -1,0 +1,14 @@
+
+img {
+    padding: 50px;
+    position: relative; float: left;
+}
+
+
+.sub-header {
+    font-weight: bold;
+}
+
+ul {
+    line-break:unset;
+}
